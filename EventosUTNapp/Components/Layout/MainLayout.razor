@@ -1,0 +1,21 @@
+﻿@inherits LayoutComponentBase
+
+<div class="d-flex flex-column min-vh-100">
+    <header class="bg-primary text-white p-3">
+        <h1>EventosUTNapp</h1>
+    </header>
+
+    <div class="d-flex flex-grow-1">
+        <nav class="bg-light border-end p-3" style="width: 250px;">
+            <NavMenu />
+        </nav>
+
+        <main class="p-4 flex-grow-1">
+            @Body
+        </main>
+    </div>
+
+    <footer class="bg-dark text-white text-center p-2">
+        © 2025 EventosUTNapp
+    </footer>
+</div>

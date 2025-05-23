@@ -1,0 +1,917 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\eventos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\eventos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\wwwroot\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\wwwroot\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\wwwroot\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\wwwroot\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\wwwroot\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\wwwroot\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\eventos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\eventos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\eventos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\eventos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\eventos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\eventos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\ponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\ponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\eventosutnapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\eventosutnapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183720_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventosUTNapp\\Migrations\\20250523183720_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183034_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventosUTNapp\\Migrations\\20250523183034_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523182811_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventosUTNapp\\Migrations\\20250523182811_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523180730_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventosUTNapp\\Migrations\\20250523180730_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\eventoponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\ponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\estadoinscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\estadoinscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\estadosinscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\estadosinscripcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\certificadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\certificadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\eventoponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\eventoponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\metodospagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\metodospagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\participantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\participantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\salascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\controllers\\tipoeventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\controllers\\tipoeventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|c:\\users\\damian portilla\\source\\repos\\eventosutnapp\\eventosutnapp\\migrations\\20250523184111_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC5C546-717B-4F33-B9A7-462C20554E79}|EventosUTNapp\\EventosUTNapp.csproj|solutionrelative:eventosutnapp\\migrations\\20250523184111_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T20:01:24.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Eventos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Create.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Eventos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:07:41.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Eventos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Index.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Eventos\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:07:17.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "EventosUTNapp\\wwwroot\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "EventosUTNapp\\wwwroot\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T23:04:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Eventos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Edit.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Eventos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:08:04.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Program.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Program.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Program.cs",
+              "RelativeToolTip": "EventosUTNapp\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:39:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "EventosUTNapp\\wwwroot\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "EventosUTNapp\\wwwroot\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T23:04:10.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "EventosUTNapp\\wwwroot\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "EventosUTNapp\\wwwroot\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T23:04:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Eventos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Delete.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Eventos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:09:17.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Eventos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Eventos\\Details.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Eventos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:07:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:09:49.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "EventosUTNapp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:16:48.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:06:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "EventosUTNapp\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "EventosUTNapp\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T19:05:05.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "EventosUTNapp\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "EventosUTNapp\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T22:41:10.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EventosUTNapp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:02:03.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\Routes.razor",
+              "RelativeToolTip": "EventosUTNapp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:35:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\App.razor",
+              "RelativeToolTip": "EventosUTNapp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:11:16.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Components\\_Imports.razor",
+              "RelativeToolTip": "EventosUTNapp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:14:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Home.razor",
+              "RelativeToolTip": "EventosUTNapp\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:59:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Error.razor",
+              "RelativeToolTip": "EventosUTNapp\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:12:57.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Counter.razor",
+              "RelativeToolTip": "EventosUTNapp\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:12:30.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Pages\\Weather.razor",
+              "RelativeToolTip": "EventosUTNapp\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T19:15:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EventosUTNapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:11:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventosUTNapp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:48:19.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\PonentesController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\PonentesController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\PonentesController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\PonentesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:08:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:06:52.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Evento.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Evento.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:26:16.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventosUTNapp.csproj",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\EventosUTNapp.csproj",
+              "RelativeDocumentMoniker": "EventosUTNapp\\EventosUTNapp.csproj",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\EventosUTNapp.csproj",
+              "RelativeToolTip": "EventosUTNapp\\EventosUTNapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T16:45:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250523182811_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523182811_Inicial.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Migrations\\20250523182811_Inicial.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523182811_Inicial.cs",
+              "RelativeToolTip": "EventosUTNapp\\Migrations\\20250523182811_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:28:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\appsettings.json",
+              "RelativeDocumentMoniker": "EventosUTNapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\appsettings.json",
+              "RelativeToolTip": "EventosUTNapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T16:41:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250523184111_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523184111_Inicial.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Migrations\\20250523184111_Inicial.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523184111_Inicial.cs",
+              "RelativeToolTip": "EventosUTNapp\\Migrations\\20250523184111_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:41:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250523183034_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183034_Inicial.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Migrations\\20250523183034_Inicial.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183034_Inicial.cs",
+              "RelativeToolTip": "EventosUTNapp\\Migrations\\20250523183034_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:30:34.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250523183720_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183720_Inicial.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Migrations\\20250523183720_Inicial.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523183720_Inicial.cs",
+              "RelativeToolTip": "EventosUTNapp\\Migrations\\20250523183720_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:37:20.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Inscripcion.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Inscripcion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:28:42.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Participante.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Participante.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Participante.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Participante.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:28:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventoPonente.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\EventoPonente.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\EventoPonente.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\EventoPonente.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\EventoPonente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:27:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Certificado.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Certificado.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Certificado.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Certificado.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:29:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250523180730_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523180730_Inicial.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Migrations\\20250523180730_Inicial.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Migrations\\20250523180730_Inicial.cs",
+              "RelativeToolTip": "EventosUTNapp\\Migrations\\20250523180730_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:07:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Pago.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Pago.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:29:09.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Ponente.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Ponente.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Ponente.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Ponente.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Ponente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:27:12.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Sesion.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Sesion.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Sesion.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Sesion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:26:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\Sala.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\Sala.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:25:15.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\MetodoPago.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\MetodoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:24:48.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EstadoInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\EstadoInscripcion.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\EstadoInscripcion.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\EstadoInscripcion.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\EstadoInscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:24:12.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TipoEvento.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\TipoEvento.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Models\\TipoEvento.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Models\\TipoEvento.cs",
+              "RelativeToolTip": "EventosUTNapp\\Models\\TipoEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:21:48.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EstadosInscripcionController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EstadosInscripcionController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\EstadosInscripcionController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EstadosInscripcionController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\EstadosInscripcionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:01:44.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CertificadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\CertificadosController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\CertificadosController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\CertificadosController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\CertificadosController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:05:17.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EventoPonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EventoPonentesController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\EventoPonentesController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\EventoPonentesController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\EventoPonentesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:08:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MetodosPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\MetodosPagoController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\MetodosPagoController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\MetodosPagoController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\MetodosPagoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:04:27.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:05:44.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ParticipantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\ParticipantesController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\ParticipantesController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\ParticipantesController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\ParticipantesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:07:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SalasController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\SalasController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\SalasController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\SalasController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\SalasController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:03:23.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\SesionesController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\SesionesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwDgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:09:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TipoEventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\TipoEventosController.cs",
+              "RelativeDocumentMoniker": "EventosUTNapp\\Controllers\\TipoEventosController.cs",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\Controllers\\TipoEventosController.cs",
+              "RelativeToolTip": "EventosUTNapp\\Controllers\\TipoEventosController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:00:29.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EventosUTNapp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Damian Portilla\\source\\repos\\EventosUTNapp\\EventosUTNapp\\appsettings.Development.json",
+              "RelativeToolTip": "EventosUTNapp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T16:41:28.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
