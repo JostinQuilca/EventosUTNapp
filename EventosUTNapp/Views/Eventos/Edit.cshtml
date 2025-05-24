@@ -1,40 +1,41 @@
 ﻿@model EventosUTNapp.Models.Evento
 
 @{
-    Layout = "~/Views/Shared/_Layout.cshtml";
     ViewData["Title"] = "Editar Evento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Editar Evento</h2>
+<h1>Editar Evento</h1>
 
 <form asp-action="Edit" method="post">
     <input type="hidden" asp-for="Id" />
 
-    <div class="mb-3">
+    <div class="form-group mb-3">
         <label asp-for="Nombre" class="form-label"></label>
         <input asp-for="Nombre" class="form-control" />
         <span asp-validation-for="Nombre" class="text-danger"></span>
     </div>
 
-    <div class="mb-3">
+    <div class="form-group mb-3">
         <label asp-for="Fecha" class="form-label"></label>
-        <input asp-for="Fecha" class="form-control" type="datetime-local" />
+        <input asp-for="Fecha" type="datetime-local" class="form-control"
+               value="@Model.Fecha.ToLocalTime().ToString("yyyy-MM-ddTHH:mm")" />
         <span asp-validation-for="Fecha" class="text-danger"></span>
     </div>
 
-    <div class="mb-3">
+    <div class="form-group mb-3">
         <label asp-for="Lugar" class="form-label"></label>
         <input asp-for="Lugar" class="form-control" />
         <span asp-validation-for="Lugar" class="text-danger"></span>
     </div>
 
-    <div class="mb-3">
+    <div class="form-group mb-3">
         <label asp-for="TipoEventoId" class="form-label"></label>
-        <select asp-for="TipoEventoId" class="form-select" asp-items="ViewBag.TipoEventoId"></select>
+        <select asp-for="TipoEventoId" asp-items="ViewBag.TipoEventos" class="form-select"></select>
         <span asp-validation-for="TipoEventoId" class="text-danger"></span>
     </div>
 
-    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <button type="submit" class="btn btn-primary">Guardar</button>
     <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
 </form>
 

@@ -1,40 +1,38 @@
 ﻿@model EventosUTNapp.Models.Evento
 
 @{
+    ViewData["Title"] = "Crear Evento";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    ViewData["Title"] = "Nombre de la página aquí";  // Ejemplo: "Lista de Eventos"
-    ViewData["ActivePage"] = "Eventos";  // Pon la sección activa para marcar en el menú (opcional)
 }
 
-
-<h1>Crear Nuevo Evento</h1>
+<h1>Crear Evento</h1>
 
 <form asp-action="Create" method="post">
     <div class="form-group mb-3">
-        <label asp-for="Nombre"></label>
+        <label asp-for="Nombre" class="form-label"></label>
         <input asp-for="Nombre" class="form-control" />
         <span asp-validation-for="Nombre" class="text-danger"></span>
     </div>
 
     <div class="form-group mb-3">
-        <label asp-for="Fecha"></label>
+        <label asp-for="Fecha" class="form-label"></label>
         <input asp-for="Fecha" type="datetime-local" class="form-control" />
         <span asp-validation-for="Fecha" class="text-danger"></span>
     </div>
 
     <div class="form-group mb-3">
-        <label asp-for="Lugar"></label>
+        <label asp-for="Lugar" class="form-label"></label>
         <input asp-for="Lugar" class="form-control" />
         <span asp-validation-for="Lugar" class="text-danger"></span>
     </div>
 
     <div class="form-group mb-3">
-        <label asp-for="TipoEventoId">Tipo de Evento</label>
-        <select asp-for="TipoEventoId" class="form-select" asp-items="ViewBag.TipoEventoId"></select>
+        <label asp-for="TipoEventoId" class="form-label"></label>
+        <select asp-for="TipoEventoId" asp-items="ViewBag.TipoEventos" class="form-select"></select>
         <span asp-validation-for="TipoEventoId" class="text-danger"></span>
     </div>
 
-    <button type="submit" class="btn btn-primary">Crear</button>
+    <button type="submit" class="btn btn-primary">Guardar</button>
     <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
 </form>
 

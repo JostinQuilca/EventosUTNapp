@@ -221,6 +221,7 @@ C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\EventosUTNapp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\EventosUTNapp.RazorAssemblyInfo.cache
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\EventosUTNapp.RazorAssemblyInfo.cs
+C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\EventosUTNapp.sourcelink.json
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Damian Portilla\source\repos\EventosUTNapp\EventosUTNapp\obj\Debug\net8.0\staticwebassets\msbuild.EventosUTNapp.Microsoft.AspNetCore.StaticWebAssets.props

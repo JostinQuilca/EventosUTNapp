@@ -1,19 +1,16 @@
 ﻿@page "/counter"
-@using Microsoft.AspNetCore.Components.Web
-
-<PageTitle>Counter</PageTitle>
 
 <h1>Contador</h1>
 
-<p class="lead">El contador actual es: <strong>@currentCount</strong></p>
+<p>Has hecho clic en el botón @count veces.</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Haz clic aquí</button>
+<button class="btn btn-primary" @onclick="IncrementCount">Haz clic</button>
 
 @code {
-    private int currentCount = 0;
+    private int count = 0;
 
     private void IncrementCount()
     {
-        currentCount++;
+        count++;
     }
 }

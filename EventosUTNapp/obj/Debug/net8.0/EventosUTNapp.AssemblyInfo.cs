@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventosUTNapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f33f72bf1976b5650bdc1dd6cae5960e4842880")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventosUTNapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventosUTNapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

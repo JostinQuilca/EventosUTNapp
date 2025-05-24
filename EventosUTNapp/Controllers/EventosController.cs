@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventosUTNapp.Data;
 using EventosUTNapp.Models;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace EventosUTNapp.Controllers
 {
@@ -15,33 +17,25 @@ namespace EventosUTNapp.Controllers
             _context = context;
         }
 
+        private void CargarTiposEventos()
+        {
+            var tipos = _context.TipoEventos
+                .Select(t => new SelectListItem { Value = t.Id.ToString(), Text = t.Nombre })
+                .ToList();
+            ViewBag.TipoEventos = tipos;
+        }
+
         // GET: Eventos
         public async Task<IActionResult> Index()
         {
-            var eventos = await _context.Eventos
-                .Include(e => e.TipoEvento)
-                .ToListAsync();
+            var eventos = await _context.Eventos.Include(e => e.TipoEvento).ToListAsync();
             return View(eventos);
-        }
-
-        // GET: Eventos/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null) return NotFound();
-
-            var evento = await _context.Eventos
-                .Include(e => e.TipoEvento)
-                .FirstOrDefaultAsync(m => m.Id == id);
-
-            if (evento == null) return NotFound();
-
-            return View(evento);
         }
 
         // GET: Eventos/Create
         public IActionResult Create()
         {
-            ViewBag.TipoEventoId = new SelectList(_context.TipoEventos, "Id", "Nombre");
+            CargarTiposEventos();
             return View();
         }
 
@@ -52,11 +46,14 @@ namespace EventosUTNapp.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Convertir fecha a UTC antes de guardar
+                evento.Fecha = DateTime.SpecifyKind(evento.Fecha, DateTimeKind.Utc);
+
                 _context.Add(evento);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.TipoEventoId = new SelectList(_context.TipoEventos, "Id", "Nombre", evento.TipoEventoId);
+            CargarTiposEventos();
             return View(evento);
         }
 
@@ -68,7 +65,7 @@ namespace EventosUTNapp.Controllers
             var evento = await _context.Eventos.FindAsync(id);
             if (evento == null) return NotFound();
 
-            ViewBag.TipoEventoId = new SelectList(_context.TipoEventos, "Id", "Nombre", evento.TipoEventoId);
+            CargarTiposEventos();
             return View(evento);
         }
 
@@ -83,19 +80,22 @@ namespace EventosUTNapp.Controllers
             {
                 try
                 {
+                    // Convertir fecha a UTC antes de guardar
+                    evento.Fecha = DateTime.SpecifyKind(evento.Fecha, DateTimeKind.Utc);
+
                     _context.Update(evento);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!EventoExists(evento.Id))
+                    if (!_context.Eventos.Any(e => e.Id == evento.Id))
                         return NotFound();
                     else
                         throw;
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.TipoEventoId = new SelectList(_context.TipoEventos, "Id", "Nombre", evento.TipoEventoId);
+            CargarTiposEventos();
             return View(evento);
         }
 
@@ -125,11 +125,6 @@ namespace EventosUTNapp.Controllers
                 await _context.SaveChangesAsync();
             }
             return RedirectToAction(nameof(Index));
-        }
-
-        private bool EventoExists(int id)
-        {
-            return _context.Eventos.Any(e => e.Id == id);
         }
     }
 }

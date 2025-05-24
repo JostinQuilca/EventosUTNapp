@@ -1,37 +1,39 @@
-using EventosUTNapp.Components;
+﻿using EventosUTNapp.Components;
 using EventosUTNapp.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Cadena de conexi�n a PostgreSQL
-var conn = builder.Configuration.GetConnectionString("Postgres");
+// ---------- 1.  Configuración de servicios ----------
+string conn = builder.Configuration.GetConnectionString("Postgres")!;
 
-// Agregar DbContext con PostgreSQL
 builder.Services.AddDbContext<ApplicationDbContext>(opts =>
     opts.UseNpgsql(conn));
 
-// Agregar MVC con vistas y Razor Pages (necesario para Blazor Server y fallback)
+// MVC + Razor Pages  (necesario para vistas MVC y Blazor Server)
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
-// Agregar API Controllers con configuraci�n JSON para referencias circulares
+// API Controllers con JSON que admite referencias circulares
 builder.Services.AddControllers()
-    .AddJsonOptions(options =>
-    {
-        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
-        options.JsonSerializerOptions.DefaultIgnoreCondition = System.Text.Json.Serialization.JsonIgnoreCondition.WhenWritingNull;
-    });
+        .AddJsonOptions(o =>
+        {
+            o.JsonSerializerOptions.ReferenceHandler =
+                System.Text.Json.Serialization.ReferenceHandler.Preserve;
+            o.JsonSerializerOptions.DefaultIgnoreCondition =
+                System.Text.Json.Serialization.JsonIgnoreCondition.WhenWritingNull;
+        });
 
-// Agregar Blazor Server
+// Blazor Server
 builder.Services.AddServerSideBlazor();
 
-// Agregar Swagger para documentaci�n API
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+// ---------- 2.  Middleware común ----------
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -40,30 +42,41 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 
-// Swagger middlewares
+// ---------- 3.  Swagger ----------
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "EventosUTNapp API v1");
-    c.RoutePrefix = "swagger";  // Acceder en /swagger
+    c.RoutePrefix = "swagger";
 });
 
-// Mapear API Controllers
+// ---------- 4.  Endpoints ----------
+
+// 4.1 — API Controllers
 app.MapControllers();
 
-// Mapear rutas MVC con controlador y vista por defecto
+// 4.2 — Redirección explícita “/” → “/Home”  (para evitar página vacía)
+app.MapGet("/", ctx =>
+{
+    ctx.Response.Redirect("/Home", permanent: false);
+    return Task.CompletedTask;
+});
+
+// 4.3 — Rutas MVC (Home / Eventos / etc.)
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Mapear Razor Pages (imprescindible para Blazor y fallback)
+// 4.4 — Razor Pages (Blazor usa esta infraestructura)
 app.MapRazorPages();
 
-// Mapear Blazor Hub y fallback a la p�gina _Host
+// 4.5 — Blazor Hub
 app.MapBlazorHub();
+
+// 4.6 — Fallback: cualquier ruta no atendida arriba carga Blazor (_Host.cshtml)
 app.MapFallbackToPage("/_Host");
 
+// ---------- 5.  Run ----------
 app.Run();
